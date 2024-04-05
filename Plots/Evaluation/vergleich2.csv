@@ -1,0 +1,5 @@
+Epochs,Validationloss CNN3D (e-3),Validationloss CNN1D3D/proposed method (e-3),Validationloss CNN3D1D (e-3),Improvement CNN1D3D (%),Improvement CNN3D1D (%)
+5,0.3969,0.2808,[],-41.38,-20.95
+10,0.2996,0.2442,[],-22.69,-13.3
+15,0.2767,0.2301,[],-20.27,-12.21
+20,0.2648,0.2192,"[0.3282, 0.2644, 0.2466, 0.2371, 0.2343, 0.2302, 0.2263, 0.2239, 0.2238, 0.2211]",-20.83,-11.67

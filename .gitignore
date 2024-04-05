@@ -1,0 +1,5 @@
+data
+Plots/temp_graphs
+**/experiment_df.csv
+**/temperature_matrices.npz
+methods
